@@ -1,2 +1,2 @@
 # learn-cpp
-Codecademy's Learn C++ Introduction Course
+My C++ learning exercises, projects, and practice code from Codecademy’s Learn C++ Introduction course.
